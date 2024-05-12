@@ -11,13 +11,6 @@
 }
 
 
-.crete-round-regular {
-    font-family: "Crete Round", serif;
-    font-weight: 400;
-    font-style: normal;
-}
-
-
 menu{
     grid-area: menu;
     background-color: #00FFA7;
@@ -63,6 +56,9 @@ footer{
     width: 100%;
 }
 
+.navbar-brand{
+    margin: 0;
+}
 
 .container-fluid a{
     line-height: 3rem;
