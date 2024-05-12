@@ -89,12 +89,13 @@ footer{
 }
 
 .card{
-    margin: 7%;
+    margin: 5%;
     padding: 5%;
     border-color: #ebf6f4;
     text-align: center;
     box-shadow: -1px -1px 6px 0 #00FFA7, 4px 4px 16px 2px #00B5DB;
 }
+
 
 .card button{
     padding: 2%;
